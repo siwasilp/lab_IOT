@@ -1,0 +1,95 @@
+รวม Blynk Server 
+
+----------------------------------------------------
+1.
+Blynk Server : blynk.iot-cm.com
+Blynk Port for App : 9443
+Blynk Port for MCU : 8080
+สถานะ : Alive
+Energy : 1 ล้าน
+Blynk Email Sending : ยังไม่ได้ทดสอบ
+
+Admin : คุณ กฤษณะ  มีสุข แผนกวิชาอิเล็กทรอนิกส์ วท.เชียงใหม่
+----------------------------------------------------
+2.
+Blynk Server : bilanblynk.ddns.net
+Blynk Port for App : 9443
+Blynk Port for MCU : 9191
+สถานะ : Alive
+Energy : 1 แสน 
+Blynk Email Sending : ยังไม่ได้ทดสอบ
+
+Admin : คุณ Likky Bilan 
+
+-------------------------------------------------------
+3.
+[Server1]
+Blynk Server : PusanBlynk.ddns.net
+Blynk Port for App : 9443
+Blynk Port for MCU : 8080
+สถานะ : Alive
+Energy : 1 แสน+  (ต้องการเพิ่มติดต่อ admin)
+Blynk Email Sending : support
+
+[Server2]
+Blynk Server : blynk.pusan.online
+Blynk Port for App : 9443
+Blynk Port for MCU : 8888
+สถานะ : Alive
+Energy : 1 แสน+  (ต้องการเพิ่มติดต่อ admin)
+Blynk Email Sending : support
+
+Admin : คุณ ปูซาน ไฟฟ้า
+
+------------------------------------------------------
+4.
+Blynk Server : prakitblog.com 
+Blynk Port for App : 9443
+Blynk Port for MCU : 8181
+สถานะ : Alive
+Energy : 1 แสน
+Blynk Email Sending : support
+
+Admin : คุณ Prakit Junkhum
+
+------------------------------------------------------
+5.
+Blynk Server : blynkfree.info
+Blynk Port for App : 9443
+Blynk Port for MCU : 8080
+สถานะ : Alive
+Energy : 1 ล้าน
+Blynk Email Sending : support
+
+Admin : คุณ U-karat Limkunakoon
+
+------------------------------------------------------
+6.
+Blynk Server : blynk.honey.co.th
+Blynk Port for App : 9443
+Blynk Port for MCU : 8080
+สถานะ : Alive
+Energy : 1 แสน
+Blynk Email Sending : support
+
+Admin : คุณ Sonthaya Boonchan 
+
+------------------------------------------------------
+7.
+Blynk Server : blynkfree.info
+Blynk Port for App : 9443
+Blynk Port for MCU : 8080
+สถานะ : Alive
+Energy : 1 ล้าน
+Blynk Email Sending : unknown
+
+------------------------------------------------------
+8.
+Blynk Server : oasiskit.com
+Blynk Port for App : 9443
+Blynk Port for MCU : 8080
+สถานะ : Alive
+Energy : 10 ล้าน
+Blynk Email Sending : support
+
+Admin : K'Permpol Thanapunnamas
