@@ -12,7 +12,7 @@
 
 -----> Q6.3 ~ HTTP ctrl LED && DHT_22
 
-====> Q6.4 ~ €ADV AJAX LED && DHT_22
+-----> Q6.4 ~ €ADV AJAX LED && DHT_22
 
 --> LAB_7 : MQTT & BLYNK
 
@@ -22,7 +22,7 @@
 
 -----> Q7.3 ~ BLYNK crtl LED && DHT_22
 
-====> Q7.4 ~ €ADV MAX7219 + BLYNK LED_DHT
+-----> Q7.4 ~ €ADV MAX7219 + BLYNK LED_DHT
 
 --> LAB_8 : IFTTT
 
