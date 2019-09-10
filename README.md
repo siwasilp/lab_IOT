@@ -1,6 +1,6 @@
 # lab_IOT || PART : FINAL
 
-> วิชา IOT-LAB_2019 § INTERNET OF THINGS § 1.3.5 <
+ วิชา IOT-LAB_2019 ~ INTERNET OF THINGS 1.3.5 ~
 
 =========================
 
