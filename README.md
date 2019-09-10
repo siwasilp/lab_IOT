@@ -22,9 +22,11 @@
 
 -----> Q7.2 ~ BLYNK ctrl LED
 
------> Q7.3 ~ BLYNK crtl LED && DHT_22
+-----> Q7.3 ~ BLYNK status BUTTON 
 
------> Q7.4 ~ €ADV MAX7219 + BLYNK LED_DHT
+-----> Q7.4 ~ BLYNK LED && BUTTON && DHT_22
+
+-----> Q7.5 ~ €ADV BLYNK MAX7219 && LED && BUTTON && DHT_22
 
 --> LAB_8 : IFTTT
 
