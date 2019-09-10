@@ -30,9 +30,9 @@
 
 -----> Q8.2 ~ WEBHOOK -> DHT to Google_sheet
 
------> Q8.3 ~ €ADV_01 -> MAX7219 & DHT & Google_sheet
+-----> Q8.3 ~ €€ADV_01 -> MAX7219 & DHT & Google_sheet
 
------> Q8.4 ~ €ADV_02 -> MAX7219 & DHT & Google_sheet & Alarm
+-----> Q8.4 ~ €€ADV_02 -> MAX7219 & DHT & Google_sheet & Alarm
 
 --> LAB_9 : ANTO.IO
 
