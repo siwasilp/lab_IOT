@@ -10,7 +10,7 @@
 
 -----> Q6.1 ~ HTTP ctrl LED
 
------> Q6.2 ~ HTTP resi DHT_22
+-----> Q6.2 ~ HTTP show DHT_22
 
 -----> Q6.3 ~ HTTP ctrl LED && DHT_22
 
@@ -22,7 +22,7 @@
 
 -----> Q7.2 ~ BLYNK ctrl LED
 
------> Q7.3 ~ BLYNK status BUTTON 
+-----> Q7.3 ~ BLYNK show BUTTON 
 
 -----> Q7.4 ~ BLYNK LED && BUTTON && DHT_22
 
