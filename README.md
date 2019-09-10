@@ -6,6 +6,8 @@
 
 --> LAB_6 : CONNECT TO NETWORK
 
+-----> Q6.0 ~ NTP < network time protocol >
+
 -----> Q6.1 ~ HTTP ctrl LED
 
 -----> Q6.2 ~ HTTP resi DHT_22
@@ -30,9 +32,9 @@
 
 -----> Q8.2 ~ WEBHOOK -> DHT to Google_sheet
 
------> Q8.3 ~ €ADV_01 -> MAX7219 & DHT & Google_sheet
+-----> Q8.3 ~ €ADV__01 -> MAX7219 & DHT & Google_sheet
 
------> Q8.4 ~ €ADV_02 -> MAX7219 & DHT & Google_sheet & Alarm
+-----> Q8.4 ~ €ADV__02 -> MAX7219 & DHT & Google_sheet & Alarm
 
 --> LAB_9 : ANTO.IO
 
