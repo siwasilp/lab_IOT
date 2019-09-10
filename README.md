@@ -1,7 +1,6 @@
 # lab_IOT || PART : FINAL
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
+![alt text](https://images.app.goo.gl/Lmv9M1aN3nxLc48o8)
  วิชา IOT-LAB_2019 ~ INTERNET OF THINGS 1.3.5 ~
 
 =========================
