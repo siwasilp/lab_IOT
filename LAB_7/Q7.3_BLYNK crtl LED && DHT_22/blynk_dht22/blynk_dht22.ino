@@ -1,10 +1,10 @@
-//==== BLYNK : DHT + MAX7219 + LED ========
+//==== BLYNK : DHT LED ========
 
 #define    BLYNK_PRINT Serial
 #include   <WiFi.h>
 #include   <WiFiClient.h>
 #include   <BlynkSimpleEsp32.h>
-BlynkTimer timer;
+BlynkTimer timer;s
 
 //=========================================
 
