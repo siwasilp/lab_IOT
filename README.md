@@ -40,11 +40,13 @@
 
 --> LAB_9 : ANTO.IO
 
------> Q9.1 ~
+-----> Q9.1 ~ Anto control 4 LED
 
------> Q9.2 ~
+-----> Q9.2 ~ Anto control 4 LED + 2 button
 
------> Q9.3 ~
+-----> Q9.3 ~ €ADV -> control 4 LED + 2 button + DHT & MAX7219 + Dashboads
+
+-----> Q9.4 ~ Anto get Data Serve
 
 --> LAB_10 : THINK_SPEAK
 
