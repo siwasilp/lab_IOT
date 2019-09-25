@@ -13,10 +13,12 @@
 
 
 int sts_SW_01, sts_SW_02, Counter;
-const char *ssid = "POND";
-const char *pass = "pond2639";
-const char *user = "POND";
-const char *token = "rn9OGPtcz9m1vfeK1seOz5fY28fQjcUqU0LkHN9s";
+
+const char *ssid = "xxxxxxxxx";   //*
+const char *pass = "yyyyyyyyy";   //*
+const char *user = "aaaaaaaaa";   //*
+const char *token = "rn9OGPtcz9m1vfeK1seOz5fY28fQjcUqU0LkHN9s";  //*
+
 const char *thing = "Tesy_IOT";
 const char *channel1 = "LED_01";
 const char *channel2 = "LED_02";
