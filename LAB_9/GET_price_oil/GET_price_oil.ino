@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char *ssid = "POND";
-const char *password = "pond2639";
+const char *ssid = "xxxxxxxx";
+const char *password = "xxxxxxxx";
 const char *Anto_URL = "https://api.anto.io/request/";
 const char *tokenKey = "rn9OGPtcz9m1vfeK1seOz5fY28fQjcUqU0LkHN9s";
 const char *Data1 = "/gas.91e10.price";
