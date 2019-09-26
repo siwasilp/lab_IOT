@@ -40,6 +40,10 @@ void setup() {
   pinMode(SW_01, INPUT_PULLUP);
   pinMode(SW_02, INPUT_PULLUP);
   dht.setup(Pin_DHT, DHTesp::DHT22);
+  
+  lc.shutdown(0, false);
+  lc.setIntensity(0, 8);
+  lc.clearDisplay(0);
 
   Serial.begin(115200);
   Serial.print("\nTrying to connect ");
@@ -61,6 +65,9 @@ void setup() {
   anto.mqtt.sub(channel6);
   anto.mqtt.sub(channel7);
   anto.mqtt.sub(channel8);
+  
+  Publish_Display();
+ 
 }
 
 void loop() {
