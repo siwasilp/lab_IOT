@@ -5,8 +5,8 @@
 #define DHT_PIN 5
 
 // WiFi network info.
-char ssid[] = "POND";
-char wifiPassword[] = "pond2639";
+char ssid[] = "XXXXX";
+char wifiPassword[] = "XXXXXX";
 
 // Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
 char username[] = "e0a05510-e502-11e9-84bb-8f71124cfdfb";
