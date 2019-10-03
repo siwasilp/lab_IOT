@@ -1,10 +1,10 @@
 #include <DHTesp.h>
 #include <WiFi.h>
 #include <PubSubClient.h>
-#define WIFISSID "POND"
-#define PASSWORD "pond2639"
+#define WIFISSID "xxxxxx"
+#define PASSWORD "xxxxxx"
 #define TOKEN "BBFF-tnCQhEQRd5MoJs8eKiiFj7VOktditG"
-#define MQTT_CLIENT_NAME "phonsawan"
+#define MQTT_CLIENT_NAME "xxxxxx"
 #define VARIABLE_LABEL "TEMP"
 #define VARIABLE_LABEL1 "HUMD"
 #define DEVICE_LABEL "ESP8266"
