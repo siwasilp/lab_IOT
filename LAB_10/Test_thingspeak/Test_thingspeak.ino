@@ -2,8 +2,8 @@
 #include "ThingSpeak.h"
 
 WiFiClient  client;
-char ssid[] = "POND";    //  your network SSID (name)
-char pass[] = "pond2639";   // your network password
+char ssid[] = "XXXXXXXX";    //  your network SSID (name)
+char pass[] = "XXXXXXXX";   // your network password
 
 /*
   This is the ThingSpeak channel number for the MathwWorks weather station
