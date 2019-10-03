@@ -50,11 +50,13 @@
 
 --> LAB_10 : THINK_SPEAK
 
------> Q10.1 ~
+-----> Q10.1 ~ Thingspeak DHT
 
------> Q10.2 ~
+-----> Q10.2 ~ Thingspeak control 2 LED
 
------> Q10.3 ~
+-----> Q10.3 ~ Ubidot DHT
+
+-----> Q10.4 ~ Cayanne DHT
 
   ++++ FINAL ++++
 > ซ้อมสอบปลายภาค <
