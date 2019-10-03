@@ -4,9 +4,9 @@
 
 #define dhtPin 5
 
-char ssid[] = "POND";    //  your network SSID (name)
-char pass[] = "pond2639";   // your network password
-unsigned long myChannelNumber = 877765;
+char ssid[] = "xxxxxxxx";    //  your network SSID (name)
+char pass[] = "xxxxxxxx";   // your network password
+unsigned long myChannelNumber = 123456;
 const char* myWriteAPIKey = "KY6FZHJHIDCD6RJA";
 const char* myReadAPIKey = "IFBJWZ1LNQ10GRI3";
 
