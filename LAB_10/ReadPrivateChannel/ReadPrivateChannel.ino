@@ -3,9 +3,9 @@
 #define LED_01 22
 #define LED_02 23
 
-char ssid[] = "POND";    //  your network SSID (name)
-char pass[] = "pond2639";   // your network password
-unsigned long myChannelNumber = 877765;
+char ssid[] = "XXXXXX";    //  your network SSID (name)
+char pass[] = "XXXXXX";   // your network password
+unsigned long myChannelNumber = 123456;
 const char* myWriteAPIKey = "KY6FZHJHIDCD6RJA";
 const char* myReadAPIKey = "IFBJWZ1LNQ10GRI3";
 
